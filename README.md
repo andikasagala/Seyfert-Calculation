@@ -20,7 +20,7 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Calculation inside<br>
 - No Advertising for all users and free<br>
 - Clean, no logs, no spy and no user registration<br>
-- Contact section for adding your formula in Andromeda Calculation software.<br>
+- Contact section for adding your formula in Seyfert Calculation software.<br>
 <br><br><br>
 
 <h3>Languages:</h3>
