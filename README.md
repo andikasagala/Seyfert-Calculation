@@ -31,7 +31,7 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Windows Operating System<br>
 - Unix Operating System ( coming soon )<br><br><br><br>
 
-Warnings:<br>
+<h3>Warnings:</h3><br>
 
 - Do not use Bitcoin/Cryptocurrency minning , etc inside the Computer Science Laboratory<br>
 - Science purposes only <br><br>
