@@ -2,10 +2,10 @@
 <b>Coder: Andika Sagala<br>
 Date: Feb, 2020</b>
 <br><br><br><br>
-<center> <h2>-----== Andromeda Calculation ==----- <h2> </center>
+<center> <h2>-----== Seyfert Calculation ==----- <h2> </center>
 
 <b>Version 0.01a </b><br><br>
-Andromeda Calculation is a calculator for Mathematics, Physics, Chemistry, and Astronomy. Inside the 'Andromeda Calculation' there are many formulas also you can do calculation using 'Andromeda Calculation' software. Andromeda Calculation is free and open source, you can develop nor rewrite it into another programming languages also with your own logic thinking method. 
+Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Astronomy. Inside the 'Seyfert Calculation' there are many formulas also you can do calculation using 'Seyfert Calculation' software. Seyfert Calculation is free and open source, you can develop nor rewrite it into another programming languages also with your own logic thinking method. 
 <br><br><br>
 
 <h3>Purposes:</h3>
