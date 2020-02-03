@@ -35,8 +35,8 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 <br>
 - Science Laboratory OS Lists: Windows OS, Unix OS , Your own OS <br>
 - Windows OS using Avira Anti Virus<br>
-- Science Laboratory Type Lists: Computer Science ( High speed Core Processor speed ), Graphic Science ( High speed Graphic processor speed )
-- Computer Science purposed for Mathematician, Chemist, Computer Scientist
+- Science Laboratory Type Lists: Computer Science ( High speed Core Processor speed ), Graphic Science ( High speed Graphic processor speed )<br>
+- Computer Science purposed for Mathematician, Chemist, Computer Scientist<br>
 - Graphic Science purposed for Physician, Astronomer
 <br><br><br>
 
