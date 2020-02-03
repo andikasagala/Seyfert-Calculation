@@ -22,7 +22,6 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Clean, no logs, no spy and no user registration<br>
 - Contact section for adding your formula in Seyfert Calculation software.<br>
 <br><br><br>
-
 <h3>Science Laboratory Concepts and Features:</h3><br>
 - High Speed Processing Server for Computer Scientist<br>
 - GPU Server for Physician, Astronomer<br>
@@ -30,7 +29,7 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Networking, DDOS, Virus, Trojan, Software Dev, Galaxy/Planet Simulation/Exploration, etc for experiments<br>
 - Clean your internet line using 'Pluto Internet Privacy' before connecting to Science Laboratory<br>
 - Clean internet line will connect and remote the Science Laboratory<br>
-- Not the part of war equiptment, just Science Laboratory<br>
+- Not the part of war equiptment, just Science Laboratory. Do not use the Laboratory for Live War. Science Laboratory. Science Laboratory. Science Laboratory<br>
 - After you finish using Science Laboratory, all of your experiments will be deleted so the other users will using fresh and new Science Laboratory (P.S: do not forget to backup your experiment result before you leaving the Science Laboratory )
 <br>
 - Science Laboratory OS Lists: Windows OS, Unix OS , Your own OS <br>
@@ -39,6 +38,7 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Computer Science purposed for Mathematician, Chemist, Computer Scientist<br>
 - Graphic Science purposed for Physician, Astronomer
 <br><br><br>
+
 
 
 <h3>Languages:</h3>
