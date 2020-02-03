@@ -23,6 +23,21 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Contact section for adding your formula in Seyfert Calculation software.<br>
 <br><br><br>
 
+Science Laboratory Concepts and Features:
+- High Speed Processing Server for Computer Scientist
+- GPU Server for Physician, Astronomer
+- Enough just using personal Laptop/Notebook you can connect and use high tech Science Laboratory
+- Networking, DDOS, Virus, Trojan, Software Dev, Galaxy/Planet Simulation/Exploration, etc for experiments
+- Clean your internet line using 'Pluto Internet Privacy' before connecting to Science Laboratory
+- Clean internet line will connect and remote the Science Laboratory
+- Not the part of war equiptment, just Science Laboratory
+- After you finish using Science Laboratory, all of your experiments will be deleted so the other users will using fresh and new Science Laboratory (P.S: do not forget to backup your experiment result before you leaving the Science Laboratory )
+<br>
+- Science Laboratory OS Lists: Windows OS, Unix OS , Your own OS <br>
+- Windows OS using Avira Anti Virus<br>
+<br><br><br>
+
+
 <h3>Languages:</h3>
 - C#<br>
 - C++/C<br>
