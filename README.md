@@ -71,15 +71,6 @@ Seyfert Calculation is a calculator for Mathematics, Physics, Chemistry, and Ast
 - Will be listed on website www.scientificsoftwares.technology<br>
 
 <br><br>
-<h3>Warning !!! </h3>
-
-
-This source code is not available for the terrorist countries list below :
-- Africa Continent
-- Afghanistan, Sahrawi Arab Democratic Republic, Palestine, Armenia, Azerbaijan, Bahrain, Bangladesh, Brunei, Indonesia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Malaysia, Lebanon, Maldives, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen, Kazakhstan, Papua New Guinea, Federated States of Micronesia, Vanuatu, Tuvalu, Solomon Islands
-, Samoa, Nauru
-
-<br><br>
 
 
 <br><br>
