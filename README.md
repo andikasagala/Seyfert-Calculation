@@ -1,5 +1,5 @@
 <h1> in progress... coming soon..</h1>
-<b>Coder: Andi Sagala ( Andy Charles Poenas ) <br>
+<b>Coder: Andi Sagala ( Andika Sagala ) <br>
 Date: Feb, 2020</b>
 <br><br><br><br>
 <center> <h2>-----== Seyfert Calculation ==----- <h2> </center>
